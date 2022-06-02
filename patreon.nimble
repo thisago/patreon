@@ -1,7 +1,8 @@
+
 # Package
 
 version       = "0.1.0"
-author        = "Luciano Lorenzo"
+author        = "Thiago Navarro"
 description   = "Download Patreon data"
 license       = "gpl-3.0"
 srcDir        = "src"
@@ -10,7 +11,7 @@ srcDir        = "src"
 # Dependencies
 
 requires "nim >= 1.5.1"
-requires "https://gitlab.com/lurlo/useragent"
+requires "https://github.com/thisago/useragent"
 requires "cligen"
 
 bin = @["patreon"]
