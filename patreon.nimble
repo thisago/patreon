@@ -4,7 +4,7 @@
 version       = "0.1.0"
 author        = "Thiago Navarro"
 description   = "Download Patreon data"
-license       = "gpl-3.0"
+license       = "mit
 srcDir        = "src"
 
 
